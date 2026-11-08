@@ -1,0 +1,28 @@
+{
+  "matrix_rows": 341,
+  "matrix_cols": 512,
+  "small_test_max_absolute_error": 0.0,
+  "results": [
+    {
+      "k": 5,
+      "relative_frobenius_error": 0.32358051464863824,
+      "factor_count": 4270,
+      "original_pixel_count": 174592,
+      "storage_ratio": 0.024457019794721407
+    },
+    {
+      "k": 20,
+      "relative_frobenius_error": 0.21569547531055475,
+      "factor_count": 17080,
+      "original_pixel_count": 174592,
+      "storage_ratio": 0.09782807917888563
+    },
+    {
+      "k": 50,
+      "relative_frobenius_error": 0.132953522059472,
+      "factor_count": 42700,
+      "original_pixel_count": 174592,
+      "storage_ratio": 0.24457019794721407
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+framework,model,test_accuracy,training_seconds,updates,device
+NumPy,TwoLayerNet,0.9478,5.688649542000121,10000,CPU
+NumPy,SimpleConvNet,0.9789,50.78416354199999,1200,CPU
+PyTorch,TwoLayerNet,0.9465,8.449587458999986,10000,mps
+PyTorch,SimpleConvNet,0.9793,4.826925083000106,1200,mps
